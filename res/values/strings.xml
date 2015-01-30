@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListView - Simple</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string-array name="films">
+        <item>Accident</item>
+        <item >Batman</item>
+        <item >Enemy</item>
+        <item>Interstellar</item>
+        <item>Noah</item>
+        <item>The Great Beauty</item>
+        <item >10000 BC</item>
+               
+    </string-array>
+       
+    <string-array name="director">
+        <item >John David Landis</item>
+        <item >Christopher Nolan</item> 
+        <item >Denis Villeneuve</item>
+        <item >Christopher Nolan</item>
+        <item >Darren Aronofsky</item>
+        <item >Paolo Sorrentino</item>
+        <item >Roland Emmerich</item>
+             
+    </string-array>
+    
+
+</resources>
